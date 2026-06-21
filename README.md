@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Cafe Sales Dashboard](dashboard.png.png)
+![Cafe Sales Dashboard](Dashboard.png.png)
 
 ## Project Overview
 
